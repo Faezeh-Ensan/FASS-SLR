@@ -1,0 +1,5 @@
+47 0 10.1016/j.intimp.2021.107439 1 1.0 PubMed-Title
+47 0 10.3390/life12040478 2 0.5 PubMed-Title
+47 0 10.1002/jev2.12083 3 0.33333334 PubMed-Title
+47 0 10.3390/biomedicines11082287 4 0.25 PubMed-Title
+47 0 10.1016/B978-0-323-90595-4.00002-9 5 0.2 PubMed-Title
