@@ -1,4 +1,4 @@
-This Repository contains the code used to acquire various information about a series of SLRs published on COVID-19. 
+This Repository contains FASS-BSLR, a dataset and a benchmark suit to facilitate developing and evaluating fully automated techniques for the step of ‘study search’ in conducting biomedical Systematical Literature Reviews (SLRs). 
 
 The SLRs Related works were acquired using various Pubmed APIs, given the doi of a work. Information such as Abstracts, authors, titles, publisher, and more were included. 
 
